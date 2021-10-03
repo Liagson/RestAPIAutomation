@@ -1,5 +1,5 @@
 # RestAPIAutomation
-Tests for Exercise 1
+Tests for Exercise 1. Implemented with C# in .Net Core 3.1 using NUnit as a test framework, RestSharp for the API calls and SpecFlow for the gherkins logic.
 
 ## Execution instructions
 
