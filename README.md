@@ -3,7 +3,7 @@ Tests for Exercise 1
 
 ## Execution instructions
 
-Tests for the API are defined in the `PetStore.feature` gherkin file and implemented in `PetStoreSteps.cs` . Visual Studio's test explore should detect it as the tests to be executed. NUnit's logs will register each step or issue found.
+Tests for the API are defined in the `PetStore.feature` gherkin file and implemented in `PetStoreSteps.cs` . Visual Studio's test explorer should detect it as the tests to be executed. NUnit's logs will register each step or issue found.
 
 ## Short description
 
