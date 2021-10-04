@@ -11,4 +11,4 @@ Here we test 4 calls to the pet API. All API call logic is stored in a class sep
 
 ## Beware!
 
-The API is rather unreliable. Wait some time after a test, have a coffee, then run the next test.
+The petstore.swagger API is rather unreliable. Wait some time after a test, have a coffee, then run the next test.
